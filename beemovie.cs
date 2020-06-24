@@ -1,7 +1,9 @@
-According to all known laws
-of aviation,
+using System;
 
-  
+class MainClass {
+    public static void Main (string[] args) {
+        Consol.WriteLine("According to all known laws
+of aviation, 
 there is no way a bee
 should be able to fly.
 
@@ -4560,3 +4562,7 @@ Wrap it up, guys.
 
   
 I had virtually no rehearsal for that.
+
+Special thanks to SergeiK.")
+    }
+}
